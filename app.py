@@ -239,7 +239,7 @@ if "chat" not in st.session_state:
 # ----------------------------
 # UI
 # ----------------------------
-st.title("🧠 PaperBrain (Stable Version)")
+st.title("🧠 PaperBrain")
 
 # RESET BUTTON
 if st.button("🔄 Reset"):
