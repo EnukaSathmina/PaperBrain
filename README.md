@@ -12,6 +12,14 @@ PaperBrain is a Streamlit app that lets you upload PDF documents, extract text, 
 - Answer questions using OpenAI chat completions grounded in retrieved text
 - Display chat history and source excerpts
 
+---
+
+## 📷 Preview
+
+> ![Image Alt](https://github.com/EnukaSathmina/PaperBrain/blob/main/PBimg.png?raw=true)
+
+---
+
 ## Setup
 
 1. Create a Python environment:
